@@ -1,7 +1,7 @@
-[![MasterHead](https://www.clustertech.com/sites/default/files/Product/A.I.%20%26%20Analytics/Machine%20Learning/49%29-Machine-Learning-web-banner2017-3.jpg)]
+[![MasterHead](https://media.licdn.com/dms/image/C4E12AQHomW0rRba6WQ/article-cover_image-shrink_720_1280/0/1592483610572?e=2147483647&v=beta&t=KrWuAOOt9Nz3OG1K8bV_P-a_nKFM8unFVhWk3zB3q4g)]
 <h1 align="center">Hi 👋, I'm Keno</h1>
 <h3 align="center">A Data Scientist passionate about Machine Learning</h3>
-<img align="right" alt="Coding" width="400" src="https://thumbs.dreamstime.com/b/young-programmer-concentrated-working-project-developing-programming-coding-technologies-screen-codes-developer-271715415.jpg">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ba/2d/c8/ba2dc8be889560116d694d1aba3eb77b.gif">
 
 - 🔭 I’m currently working on **NLP Text Generator**
 
